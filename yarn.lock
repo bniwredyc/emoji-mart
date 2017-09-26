@@ -604,12 +604,6 @@ babel-plugin-transform-flow-strip-types@^6.3.13:
     babel-plugin-syntax-flow "^6.18.0"
     babel-runtime "^6.22.0"
 
-babel-plugin-transform-helper@^0.0.6:
-  version "0.0.6"
-  resolved "https://registry.yarnpkg.com/babel-plugin-transform-helper/-/babel-plugin-transform-helper-0.0.6.tgz#ba9a1fc07d8caec13f3313b604ceca0657c736bd"
-  dependencies:
-    babel-helpers "^6.6.0"
-
 babel-plugin-transform-object-rest-spread@6.8.0:
   version "6.8.0"
   resolved "https://registry.yarnpkg.com/babel-plugin-transform-object-rest-spread/-/babel-plugin-transform-object-rest-spread-6.8.0.tgz#03d1308e257a9d8e1a815ae1fd3db21bdebf08d9"
